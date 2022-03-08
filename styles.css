@@ -1,11 +1,17 @@
 #button-container{
+    font-family: Arial, Helvetica, sans-serif;
     display: flex;
     justify-content: space-around;
     border: 2px solid black;
 }
 
+button{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 #dice-container
 {
+    font-family: Arial, Helvetica, sans-serif;
     display: flex;
     flex-wrap: wrap;
 }
